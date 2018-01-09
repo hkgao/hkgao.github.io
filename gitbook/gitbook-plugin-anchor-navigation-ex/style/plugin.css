@@ -26,7 +26,7 @@
     text-align: left;
     padding-right: 10px;
     padding-left: 10px;
-    list-style-type: none;
+    /* list-style-type: none; */
 }
 
 #anchor-navigation-ex-navbar:hover ul {
@@ -37,7 +37,7 @@
     text-decoration: none;
     border-bottom: none;
     font-size: 14px;
-    color: #364149;
+    color: #4183C4;
     background: 0 0;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -150,7 +150,7 @@ h4:hover a.anchor-navigation-ex-anchor, h5:hover a.anchor-navigation-ex-anchor, 
     text-align: left;
     padding-right: 10px;
     padding-left: 10px;
-    list-style-type: none;
+    /* list-style-type: none; */
 }
 
 #anchor-navigation-ex-pagetop-navbar:hover ul {
@@ -161,7 +161,7 @@ h4:hover a.anchor-navigation-ex-anchor, h5:hover a.anchor-navigation-ex-anchor, 
     text-decoration: none;
     border-bottom: none;
     font-size: 14px;
-    color: #364149;
+    color: #4183C4;
     background: 0 0;
     text-overflow: ellipsis;
     overflow: hidden;
