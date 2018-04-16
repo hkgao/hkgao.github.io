@@ -37,7 +37,8 @@
     text-decoration: none;
     border-bottom: none;
     font-size: 14px;
-    color: #4183C4;
+    /* color: #364149; */
+	color: #4183C4;
     background: 0 0;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -161,7 +162,8 @@ h4:hover a.anchor-navigation-ex-anchor, h5:hover a.anchor-navigation-ex-anchor, 
     text-decoration: none;
     border-bottom: none;
     font-size: 14px;
-    color: #4183C4;
+    /* color: #364149; */
+	color: #4183C4;
     background: 0 0;
     text-overflow: ellipsis;
     overflow: hidden;
